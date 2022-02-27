@@ -1,0 +1,29 @@
+
+body{
+    background-color: #ddefff ;
+    
+}
+
+.container-fluid{
+    margin-top: 10%;
+    color: #31485c ;
+    font-family:sans-serif;
+
+}
+#boton{
+    background-color: #31485c;
+    color:white;
+}
+#boton:hover{
+    background-color: #f0d17e;
+    color:#345995;
+    padding: 1em;
+}
+
+#resultado{
+    margin-right: 20%;
+    text-align: left;
+    font-family:sans-serif;
+    color: #31485c;
+
+}
